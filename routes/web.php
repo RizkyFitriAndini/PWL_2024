@@ -32,8 +32,8 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return 'NIM: 2241720153<br>
-    Nama: Amanda Vanika Putri';
+    return 'NIM: 2241720170<br>
+    Nama: Rizky Fitri Andini';
 });
 
 Route::get('/user/{name}', function ($name) {
